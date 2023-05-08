@@ -1,0 +1,3 @@
+Download Link: https://assignmentchef.com/product/solved-solved-filename-enterpin-java
+<br>
+Enter Your PIN java program. Assignments turned in without these things will receive no credit. 1.How is a while loop similar to an if statement? 2.How is a while loop different from an if statement? 3.Inside the while loop, why isn’t there an int in front of the line entry = keyboard.nextInt()? 4.Delete the line entry = keyboard.nextInt(); from inside the while loop. What happens? Why? 5.(Put the entry = keyboard.nextInt(); back before you turn in the assignment.)
